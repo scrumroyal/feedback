@@ -1,4 +1,3 @@
-# ScrumRoyal Feedback
-Feedback and bug reports
+# ScrumRoyal: Feedback and Bug Reports
 
 Please create a new issue
